@@ -1,5 +1,4 @@
 import React from 'react';
-import '../../assets/scss/SecondPage.scss';
 
 function Repo() {
   const openExternalLink = () => {

@@ -1,5 +1,3 @@
-import '../../assets/scss/SecondPage.scss';
-
 function News() {
     return (
         <section className='news'>

@@ -1,5 +1,3 @@
-import '../../assets/scss/SecondPage.scss';
-
 function Header() {
     return (
         <header className='header'>
